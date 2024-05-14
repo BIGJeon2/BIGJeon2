@@ -3,11 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=hi,+i'm+AOSdeveloper&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
 <!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBIGJeon2%2Fhit-counter&count_bg=%23567CBD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" align="left" /></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBIGJeon2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23417A66&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br />
-<br />
-
 <a href="https://opgc.me/#/users/BIGJeon2" target="_blank"><img src="https://api.opgc.me/githubs/users/BIGJeon2/tag/?theme=basic" /></a>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=BIGJeon2)](https://solved.ac/BIGJeon2)
 <!--   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dkssud8150&theme=white) -->

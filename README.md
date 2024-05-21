@@ -7,18 +7,18 @@
 
 ## About me
 
-###1. IDE
-   ####* Android Atudio
+1. IDE
+   * Android Atudio
      
-###2. Language
-   ####* JAVA
-   ####* Kotlin
+2. Language
+   * JAVA
+   * Kotlin
      
-###3. RVS
-   ####* GitHub
-   ####* Git
+3. RVS
+   * GitHub
+   * Git
      
-###4. Tools
-   ####* Jira
-   ####* Slack
-   ####* Notion
+4. Tools
+   * Jira
+   * Slack
+   * Notion

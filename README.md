@@ -4,3 +4,21 @@
 <!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
 # 안드로이드 Native 개발자 Big-Jeon입니다!
+
+## About me
+
+###1. IDE
+   ####* Android Atudio
+     
+###2. Language
+   ####* JAVA
+   ####* Kotlin
+     
+###3. RVS
+   ####* GitHub
+   ####* Git
+     
+###4. Tools
+   ####* Jira
+   ####* Slack
+   ####* Notion

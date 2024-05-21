@@ -6,7 +6,7 @@
 </div>
 # 안드로이드 Native 개발자 Big-Jeon입니다!
 
-##<img src="https://img.shields.io/badge/HTML-34A853?style=flat-square&logo=HTML5&logoColor=green"/> About me
+##<img src="https://img.shields.io/badge/HTML-34A853?style=flat-square&logo=ANDROID&logoColor=green"/> About me
 
 * IDE
    * Android Atudio

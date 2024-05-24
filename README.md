@@ -4,12 +4,12 @@
 <!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
 </div>
-# 안드로이드 Native 개발자 Big-Jeon입니다! <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=ANDROID&logoColor=green"/>
+# 안드로이드 Native 개발자 Big-Jeon입니다!
 
 About me
 
 * IDE
-   * Android Atudio
+   * Android Atudio<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=ANDROID&logoColor=green"/>
      
 * Language
    * JAVA

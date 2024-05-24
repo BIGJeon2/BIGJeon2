@@ -14,7 +14,7 @@
      
 * Language : <img src="https://img.shields.io/badge/JAVA-FC390E?style=flat-square&logo=Eclipse IDE&logoColor=#FC390E"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=#7F52FF"/>
      
-* RVS : <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+* RVS : <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=black"/>
      
 * Tools
    * Jira

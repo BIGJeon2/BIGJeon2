@@ -9,7 +9,6 @@
      
 # 안드로이드 Native 개발자 Big-Jeon입니다.
 
-
 ## About me.
 
 * IDE : <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=white"/>

@@ -11,11 +11,10 @@
 ## About me.
 
 * IDE
-   * <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=green"/>
      
 * Language
-   * JAVA
-   * Kotlin
+   <img src="https://img.shields.io/badge/JAVA-34A853?style=flat-square&logo=Eclipse IDE&logoColor=#FC390E"/>
      
 * RVS
    * GitHub

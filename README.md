@@ -9,7 +9,7 @@
 About me
 
 * IDE
-   * Android Atudio<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=ANDROID&logoColor=green"/>
+   * <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=ANDROID&logoColor=green"/> Android Atudio
      
 * Language
    * JAVA

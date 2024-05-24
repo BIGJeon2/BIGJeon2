@@ -5,7 +5,7 @@
 
 </div>
 
-<div align="left"
+<div align="left">
 # 안드로이드 Native 개발자 Big-Jeon입니다!
 
 ## About me.

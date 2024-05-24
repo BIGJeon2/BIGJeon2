@@ -11,7 +11,7 @@
 ## About me.
 
 * IDE
-   * <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=ANDROID&logoColor=green"/> Android Atudio
+   * <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=green"/>
      
 * Language
    * JAVA

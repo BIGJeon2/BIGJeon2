@@ -12,11 +12,9 @@
 
 * IDE : <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=green"/>
      
-* Language : <img src="https://img.shields.io/badge/JAVA-FC390E?style=flat-square&logo=Eclipse IDE&logoColor=#FC390E"/>, <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Eclipse IDE&logoColor=#7F52FF"/>
+* Language : <img src="https://img.shields.io/badge/JAVA-FC390E?style=flat-square&logo=Eclipse IDE&logoColor=#FC390E"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Eclipse IDE&logoColor=#7F52FF"/>
      
-* RVS
-   * GitHub
-   * Git
+* RVS : <img src="https://img.shields.io/badge/GitHub-FC390E?style=flat-square&logo=Eclipse IDE&logoColor=#FC390E"/>  <img src="https://img.shields.io/badge/Git-FC390E?style=flat-square&logo=Eclipse IDE&logoColor=#FC390E"/>
      
 * Tools
    * Jira

@@ -5,7 +5,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
      
 # 3년차(2년7개월)안드로이드 Native 개발자 Big-Jeon입니다.
 

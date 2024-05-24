@@ -10,11 +10,9 @@
 
 ## About me.
 
-* IDE
-  <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=green"/>
+* IDE : <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=green"/>
      
-* Language
-   <img src="https://img.shields.io/badge/JAVA-FC390E?style=flat-square&logo=Eclipse IDE&logoColor=#FC390E"/>
+* Language : <img src="https://img.shields.io/badge/JAVA-FC390E?style=flat-square&logo=Eclipse IDE&logoColor=#FC390E"/>
      
 * RVS
    * GitHub

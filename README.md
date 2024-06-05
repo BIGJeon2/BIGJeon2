@@ -10,7 +10,7 @@
 <div align="left">
 
 # Android Native 개발자 BigJeon입니다.
-1일 1커밋, 2백준 알고리즘 풀이를 목표로 하고 있는 3년차 개발자입니다.
+1일 1커밋, 2백준 알고리즘 풀이를 목표로 하고 있는 3년차 개발자입니다. #
 #My Blog : "https://big-jeon-dev.tistory.com/"
 </div>
 

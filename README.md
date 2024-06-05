@@ -15,7 +15,7 @@
 
 <div align="left">
 
-#My Blog : "https://big-jeon-dev.tistory.com/"
+# My Blog : "https://big-jeon-dev.tistory.com/"
 </div>
 
 * IDE : <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=white"/>

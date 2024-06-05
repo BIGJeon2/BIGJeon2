@@ -6,12 +6,16 @@
 </div>
 
 <div align="left">
-     
+
+<div align="center">
+
 # Android Native 개발자 BigJeon입니다.
      
 ## 1일 1커밋 / 2 백준 알고리즘 풀이 
 
 ## About me.
+
+</div>
 
 * IDE : <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=white"/>
      

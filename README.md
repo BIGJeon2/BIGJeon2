@@ -13,7 +13,10 @@
 1일 1커밋, 2백준 알고리즘 풀이를 목표로 하고 있는 3년차 개발자입니다.
 </div>
 
+<div align="left">
+
 #My Blog : "https://big-jeon-dev.tistory.com/"
+</div>
 
 * IDE : <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=ANDROID&logoColor=white"/>
      

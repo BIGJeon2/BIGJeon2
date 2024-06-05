@@ -7,7 +7,7 @@
 
 <div align="left">
      
-# 3년차(2년7개월)안드로이드 Native 개발자 Big-Jeon입니다.
+# Purpose : 1 Day 1 Commit / 2 baekjoon Algorithm solve[Project name : baekjoonProject] * start in 2024.06.2
 
 ## About me.
 

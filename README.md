@@ -6,8 +6,9 @@
 </div>
 
 <div align="left">
+# Android Native 개발자 BigJeon입니다.
      
-# Purpose : 1 Day 1 Commit / 2 baekjoon Algorithm solve[Project name : baekjoonProject] * start in 2024.06.2
+## 1일 1커밋 / 2 백준 알고리즘 풀이 
 
 ## About me.
 
